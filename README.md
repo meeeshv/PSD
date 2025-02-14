@@ -1,31 +1,9 @@
-psd-documents-repo/
-├── Branding/
-│   ├── Logos/
-│   ├── Business Cards/
-│   ├── Letterheads/
-│   └── Brand Guidelines/
-├── Web Design/
-│   ├── Website Mockups/
-│   ├── UI Kits/
-│   ├── Landing Pages/
-│   └── Mobile App Designs/
-├── Print Media/
-│   ├── Brochures/
-│   ├── Flyers/
-│   ├── Posters/
-│   └── Magazine Layouts/
-├── Social Media/
-│   ├── Instagram Templates/
-│   ├── Facebook Covers/
-│   ├── Twitter Headers/
-│   └── Story Templates/
-├── Mockups/
-│   ├── Device Mockups/
-│   ├── Packaging Mockups/
-│   ├── Stationery Mockups/
-│   └── Apparel Mockups/
-└── Resources/
-    ├── Icons/
-    ├── Textures/
-    ├── Patterns/
-    └── Fonts/
+This repository contains:
+
+Editable PSD Files: Fully layered and organized for easy customization.
+
+High-Resolution Designs: Suitable for both digital and print projects.
+
+Versatile Templates: Ready-to-use templates for various design needs.
+
+Design Resources: Icons, textures, patterns, and fonts to enhance your projects.
